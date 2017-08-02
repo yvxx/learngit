@@ -1,0 +1,11 @@
+git init
+
+git add 
+git commit
+git status
+git diff
+git reset --hard commit_id
+git log
+git reflog
+
+
